@@ -23,3 +23,5 @@ cmp	#0x8, r14
 ```
 
 To solve this exercice, either directly enter the hex values and check the box for hex encoded input, or convert those hex values to ascii and enter the resulting string.
+
+_The CPU completed in 2392 cycles._
